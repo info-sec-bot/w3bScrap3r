@@ -2,7 +2,7 @@
 <h1 align="center">AbuseIPDB Check IP Parser</h1>
 
 <p align="center">
-    <img src="../abuseipdb-logo.svg" alt="">
+    <img src="/imgs/abuseipdb-logo.svg" alt="">
 </p>
 
 ## Table of Contents
