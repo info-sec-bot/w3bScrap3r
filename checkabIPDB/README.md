@@ -1,8 +1,6 @@
 
-<h1 align="center">AbuseIPDB Check IP Parser</h1>
-
 <p align="center">
-    <img src="/imgs/abuseipdb-logo.svg" alt="">
+    <img src="/imgs/CheckabIPDB.png" alt="">
 </p>
 
 ## Table of Contents
@@ -20,7 +18,7 @@
 - [Parse Output](#parse-output)
 
 ## Overview
-This Python program was designed to provide an easy interface to the AbuseIPDB check API. This API endpoint provides information about the origin and usage of an IP Address. It is useful for data forensics, incident response, security research, system administration or anyone looking to discover more information about a particular public IP address.
+CheckabIPDB was designed to provide an easy interface to the AbuseIPDB check API. This API endpoint provides information about the origin and usage of an IP Address. It is useful for data forensics, incident response, security research, system administration or anyone looking to discover more information about a particular public IP address.
 ## Full Code
 ```
 import requests
